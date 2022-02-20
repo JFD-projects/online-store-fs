@@ -9,8 +9,8 @@ const productService = {
     return data;
   },
   create: async (payload) => {
-    const { data } = await httpService.put(
-        productEndpoint + payload._id,
+    const { data } = await httpService.post(
+        productEndpoint + "create",
         payload
     );
     return data;

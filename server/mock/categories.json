@@ -1,37 +1,37 @@
 [
   {
-    "_id": "78UtZYl7w0qZEQj39vrfow",
-    "color": "green",
-    "name": "Бытовая техника"
+    "_id": "620fd70a39e54ce5e0fe2553",
+    "name": "Музыкальное оборудование",
+    "color": "yellow"
   },
   {
-    "_id": "EUSanQ8ZakKluMNVN-WRuQ",
-    "color": "pink",
-    "name": "Фото-видео"
+    "_id": "620fd70a39e54ce5e0fe2551",
+    "name": "Бытовая техника",
+    "color": "green"
   },
   {
-    "_id": "TI+FqYMYckC7Qk6YBlZfkg==",
-    "color": "yellow",
-    "name": "Музыкальное оборудование"
+    "_id": "620fd70a39e54ce5e0fe2554",
+    "name": "ТВ и Видео",
+    "color": "red"
   },
   {
-    "_id": "icVvCxxcyEmdJmYVBE-93g",
-    "color": "red",
-    "name": "ТВ и Видео"
+    "_id": "620fd70a39e54ce5e0fe2555",
+    "name": "Аудиотехника",
+    "color": "orange"
   },
   {
-    "_id": "mzLy0-ppe0OSr-WXxdOIFw",
-    "color": "orange",
-    "name": "Аудиотехника"
+    "_id": "620fd70a39e54ce5e0fe2552",
+    "name": "Фото-видео",
+    "color": "pink"
   },
   {
-    "_id": "vII6N8tF2ka1JLkMb55Nlw",
-    "color": "indigo",
-    "name": "Телефоны и гаджеты"
+    "_id": "620fd70a39e54ce5e0fe2557",
+    "name": "Планшеты и аксессуары",
+    "color": "blue"
   },
   {
-    "_id": "zoKaSkKeZUiZgQiyb2GGgw",
-    "color": "blue",
-    "name": "Планшеты и аксессуары"
+    "_id": "620fd70a39e54ce5e0fe2556",
+    "name": "Телефоны и гаджеты",
+    "color": "indigo"
   }
 ]

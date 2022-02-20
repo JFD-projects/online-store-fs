@@ -4,7 +4,6 @@ import TextField from "../common/form/textField";
 import SelectField from "../common/form/selectField";
 import { useDispatch, useSelector } from "react-redux";
 import { getCategories } from "../../store/categories";
-import { nanoid } from "nanoid";
 import { createProduct, getProducts, updateProduct } from "../../store/products";
 import PropTypes from "prop-types";
 
@@ -110,8 +109,8 @@ const AddForm = ({ productId, edit, onCancel }) => {
       onCancel();
     } else {
       const newData = {
-        ...data,
-        _id: nanoid()
+        ...data
+        // _id: nanoid()
       };
       dispatch(createProduct(newData));
      }
