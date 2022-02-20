@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "78UtZYl7w0qZEQj39vrfow",
+    "color": "green",
+    "name": "Бытовая техника"
+  },
+  {
+    "_id": "EUSanQ8ZakKluMNVN-WRuQ",
+    "color": "pink",
+    "name": "Фото-видео"
+  },
+  {
+    "_id": "TI+FqYMYckC7Qk6YBlZfkg==",
+    "color": "yellow",
+    "name": "Музыкальное оборудование"
+  },
+  {
+    "_id": "icVvCxxcyEmdJmYVBE-93g",
+    "color": "red",
+    "name": "ТВ и Видео"
+  },
+  {
+    "_id": "mzLy0-ppe0OSr-WXxdOIFw",
+    "color": "orange",
+    "name": "Аудиотехника"
+  },
+  {
+    "_id": "vII6N8tF2ka1JLkMb55Nlw",
+    "color": "indigo",
+    "name": "Телефоны и гаджеты"
+  },
+  {
+    "_id": "zoKaSkKeZUiZgQiyb2GGgw",
+    "color": "blue",
+    "name": "Планшеты и аксессуары"
+  }
+]
