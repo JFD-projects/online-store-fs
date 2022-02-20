@@ -42,6 +42,9 @@ const Cart = () => {
   if (!products || !cart) {
     return "Loading...";
   }
+  if (cart.length === 0) {
+    return <h1>В корзине пока ничего нет</h1>;
+  }
   function filterProducts(data) {
     return searchQuery
         ? data.filter((product) => product.name.toLowerCase().indexOf(searchQuery.toLowerCase()) !== -1)
